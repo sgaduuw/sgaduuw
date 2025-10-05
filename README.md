@@ -1,4 +1,4 @@
-# Eelco Wesemann – Platform & SRE Engineer
+# Eelco Wesemann - Platform & SRE Engineer
 
 Hi, I’m Eelco (sgaduuw), a platform engineer / SRE based in the Netherlands. I build and run infrastructure using Terraform and the Elastic stack, with a focus on reliability, automation and clear observability.
 
